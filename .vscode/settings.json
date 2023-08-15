@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "channel-file.h": "c",
+        "qemu-print.h": "c"
+    }
+}
